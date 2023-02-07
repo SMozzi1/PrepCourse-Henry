@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-ejemplo sobre la creacion de un repositorio del prepcourse de henry
+Proyecto sobre como crear un repositorio y clonarlo a mi escritorio
